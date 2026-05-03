@@ -1,8 +1,3 @@
-print("Hello Manya!")
-name = "Manya"
-age = 19
-gravity = 9.81 #m/s^2
-print(name, "is", age, "years old. Gravity =", gravity)
 
 thrust = 5000    #newton
 mass = 250       #kg
