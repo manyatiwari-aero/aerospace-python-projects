@@ -7,7 +7,7 @@ string_number = int(string)
 sum = number + string_number
 print("sum is :", sum)
 name = "harry"
-apple = ''' he sai
+apple = ''' he said
 hi harry
 i am good '''
 print(name + apple)
