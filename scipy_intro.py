@@ -7,7 +7,7 @@ def falling_ball(t,y):
     velocity = y[1]
     g = 9.81
     return [velocity, -g]
-y0 = [1000, 0]
+y0 = [2000, 0]
 t_span = (0, 15)
 t_eval = np.linspace(0,15,300)
 
